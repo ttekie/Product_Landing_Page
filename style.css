@@ -11,8 +11,6 @@ body {
 #header {
   position: sticky;
   top: 0;
-  width: 100%;
-  height: auto;
   min-height: 75px;
   background-color: #eee;
   display: flex;
